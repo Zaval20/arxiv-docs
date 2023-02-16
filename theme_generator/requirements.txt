@@ -4,7 +4,7 @@ Jinja2==2.11.3
 Markdown==3.3.6
 MarkupSafe==2.0.1
 PyYAML==6.0
-Werkzeug==1.0.1
+Werkzeug==2.2.3
 attrs==21.4.0
 backports-datetime-fromisoformat==1.0.0
 bleach==3.3.0
